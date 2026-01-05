@@ -20,7 +20,7 @@
     "fcm",
     "push-notification"
   ],
-  "author": "",
+  "author": "Vaibhav <vaibhavuk.dev@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "firebase": ">=9",
