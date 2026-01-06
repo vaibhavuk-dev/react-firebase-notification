@@ -1,6 +1,6 @@
 {
   "name": "react-firebase-notification",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A focused, practical library for React that wraps Firebase Cloud Messaging (FCM).",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
