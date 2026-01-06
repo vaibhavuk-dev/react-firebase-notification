@@ -1,5 +1,9 @@
 # react-firebase-notification
 
+[![npm version](https://img.shields.io/npm/v/react-firebase-notification.svg)](https://www.npmjs.com/package/react-firebase-notification)
+[![npm downloads](https://img.shields.io/npm/dm/react-firebase-notification.svg)](https://www.npmjs.com/package/react-firebase-notification)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > Build a small, well-documented React library that manages FCM permission/token lifecycle, service worker registration, foreground/background message handling, and optional UI.
 
 ## Features

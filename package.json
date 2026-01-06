@@ -22,6 +22,14 @@
   ],
   "author": "Vaibhav <vaibhavuk.dev@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavuk-dev/react-firebase-notification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibhavuk-dev/react-firebase-notification/issues"
+  },
+  "homepage": "https://github.com/vaibhavuk-dev/react-firebase-notification#readme",
   "peerDependencies": {
     "firebase": ">=9",
     "react": ">=16.8",
