@@ -93,4 +93,4 @@ If you add a new feature, please try to add a test case for it in the `test/` fo
 
 If you get stuck or have questions, feel free to open a [Discussion](https://github.com/vaibhavuk-dev/react-firebase-notification/discussions) or an Issue. We're happy to help you get your contribution merged!
 
-Happy Coding! 💻
+Happy Coding! 💻 
